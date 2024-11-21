@@ -1,7 +1,0 @@
-cd path/to/disney.html/website-beranda
-git init
-git add .
-git commit -m "Upload file HTML pertama"
-git remote add origin https://github.com/kayassa/disney-studio.git
-
-git push -u origin master
